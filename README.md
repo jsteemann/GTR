@@ -9,5 +9,16 @@ This repository contains the presentation slides of a talk I gave at the Gothenb
 
 [employees_0.0.1.zip](https://github.com/jsteemann/GTR/blob/master/employees_0.0.1.zip) contains the Foxx demonstration app used in the presentation with the Foxx examples. It can be installed locally to play with the example Foxx app.
 
+Some more information on ArangoDB:
+
+The documentation for ArangoDB can be found on the [ArangoDB documentation website](https://www.arangodb.com/documentation/).
+
+The documentation for AQL can be found [here](https://docs.arangodb.com/3.4/AQL/).
+
+Some online courses for ArangoDB can be found in the [ArangoDB training center](https://www.arangodb.com/arangodb-training-center/).
+Specific graph-related training material can be found [here](https://www.arangodb.com/arangodb-training-center/graphs/).
+
+Please note that for taking the courses it may be required to register on the ArangoDB website first.
+
+
 I plan to add some example data and the queries from the presentation here soon.
-I will also add links to further ArangoDB material here in the next few days.
